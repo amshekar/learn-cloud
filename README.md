@@ -1,5 +1,5 @@
 # learn-cloud
-# Cloud platforms provide the ability to leverage remote systems on demand over the open internet, to pay for only the resources that you use, and to scale up and back as needed. 
+### Cloud platforms provide the ability to leverage remote systems on demand over the open internet, to pay for only the resources that you use, and to scale up and back as needed. 
 
 The National Institute for Standards in Technologies (NIST), defines the following:
 
